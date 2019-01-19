@@ -2,7 +2,7 @@
 
 ExtOrg is an application written in C# that organizes files based on their extensions.
 
-![EX](EX.PNG)
+![Example](img/example.png)
 
 # License
 
