@@ -6,7 +6,13 @@ ExtOrg is an application written in C# that organizes files based on their exten
 
 # License
 
-ExtOrg is a project by [UnexomWid](http://unexomwid.github.io). The latest version is *1.1*. It is licensed under the [General Public License (GPL) version 3](https://www.gnu.org/licenses/gpl-3.0.en.html).
+ExtOrg is a project by [UnexomWid](http://unexomwid.github.io). It is licensed under the [General Public License (GPL) version 3](https://www.gnu.org/licenses/gpl-3.0.en.html).
+
+# Releases
+
+>Note: versions with the prefix **R** are considered stable releases, while those with the prefix **D** are considered unstable.
+
+[1.1R](https://github.com/UnexomWid/ExtOrg/releases/tag/v1.1R) - January 19, 2019
 
 # Usage
 
