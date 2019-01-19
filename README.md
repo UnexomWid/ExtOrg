@@ -1,6 +1,6 @@
 # About
 
-ExtOrg is an application written in C# that organizes files based on their extensions
+ExtOrg is an application written in C# that organizes files based on their extensions.
 
 ![EX](EX.PNG)
 
@@ -17,13 +17,12 @@ If a file already exists in the destination folder, the application will prompt 
 
 # Options
 
-*For more details, run **extorg.exe --help**.
+*For more details, run **extorg.exe --help**.*
 
 By default, ExtOrg uses the current directory as the working one. However, you can specify the working directory. Example:
 >extorg.exe "D:/path/to/folder"
 
 You can also specify how the application should handle *file-already-exists* conflicts. Example:
 >extorg.exe -y // automatically overwrites existing files
->extorg.exe -n // automatically skips existing files
 
-You can combine these two options however you want.
+>extorg.exe -n // automatically skips existing files
