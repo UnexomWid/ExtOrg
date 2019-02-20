@@ -10,7 +10,7 @@ ExtOrg is a project by [UnexomWid](http://unexomwid.github.io). It is licensed u
 
 # Releases
 
->Note: versions with the prefix **R** are considered stable releases, while those with the prefix **D** are considered unstable.
+>Note: versions with the suffix **R** are considered stable releases, while those with the suffix **D** are considered unstable.
 
 [v1.1R](https://github.com/UnexomWid/ExtOrg/releases/tag/v1.1R) - January 19, 2019
 
