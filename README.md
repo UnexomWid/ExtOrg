@@ -1,10 +1,10 @@
-# About
+# About <a href="https://docs.microsoft.com/en-us/dotnet/framework/whats-new/#v45"><img align="right" src="https://img.shields.io/badge/.Net%20Framework-4.5-5C2D91?logo=.net" alt=".Net Framework 4.5" /></a>
 
 ExtOrg is an application written in C# that organizes files based on their extensions.
 
 ![Example](img/example.png)
 
-# License
+# License <a href="https://github.com/UnexomWid/ExtOrg/blob/master/LICENSE"><img align="right" src="https://img.shields.io/badge/License-GPLv3-blue.svg" alt="License: GPL v3" /></a>
 
 ExtOrg is a project by [UnexomWid](http://unexomwid.github.io). It is licensed under the [General Public License (GPL) version 3](https://www.gnu.org/licenses/gpl-3.0.en.html).
 
