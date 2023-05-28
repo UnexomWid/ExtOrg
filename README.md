@@ -13,6 +13,7 @@ ExtOrg was created by [UnexomWid](https://uw.exom.dev). It is licensed under the
 >Note: versions with the suffix **R** are considered stable releases, while those with the suffix **D** are considered unstable.
 
 [v1.1R](https://github.com/UnexomWid/ExtOrg/releases/tag/v1.1R) - January 19, 2019
+[v1.2R](https://github.com/UnexomWid/ExtOrg/releases/tag/v1.2R) - May 28, 2023
 
 # Usage
 
@@ -20,6 +21,8 @@ ExtOrg moves all files from the working directory to folders named after their e
 >D:/folder/file.txt -> D:/folder/txt/file.txt
 
 If a file already exists in the destination folder, the application will prompt you to decide whether or not to overwrite that file. You can also choose to overwrite/skip these files in the future.
+
+Files with no extension will not be touched.
 
 # Options
 
