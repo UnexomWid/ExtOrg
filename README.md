@@ -13,6 +13,7 @@ ExtOrg was created by [UnexomWid](https://uw.exom.dev). It is licensed under the
 >Note: versions with the suffix **R** are considered stable releases, while those with the suffix **D** are considered unstable.
 
 [v1.1R](https://github.com/UnexomWid/ExtOrg/releases/tag/v1.1R) - January 19, 2019
+
 [v1.2R](https://github.com/UnexomWid/ExtOrg/releases/tag/v1.2R) - May 28, 2023
 
 # Usage
